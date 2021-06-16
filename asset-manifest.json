@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://zhpadvoiski.github.io/csb-4xywh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://zhpadvoiski.github.io/csb-4xywh/static/js/main.4d3b9170.chunk.js",
+    "main.js.map": "https://zhpadvoiski.github.io/csb-4xywh/static/js/main.4d3b9170.chunk.js.map",
+    "runtime-main.js": "https://zhpadvoiski.github.io/csb-4xywh/static/js/runtime-main.7b5ae729.js",
+    "runtime-main.js.map": "https://zhpadvoiski.github.io/csb-4xywh/static/js/runtime-main.7b5ae729.js.map",
+    "static/css/2.823f50cd.chunk.css": "https://zhpadvoiski.github.io/csb-4xywh/static/css/2.823f50cd.chunk.css",
+    "static/js/2.85c7cedd.chunk.js": "https://zhpadvoiski.github.io/csb-4xywh/static/js/2.85c7cedd.chunk.js",
+    "static/js/2.85c7cedd.chunk.js.map": "https://zhpadvoiski.github.io/csb-4xywh/static/js/2.85c7cedd.chunk.js.map",
+    "index.html": "https://zhpadvoiski.github.io/csb-4xywh/index.html",
+    "static/css/2.823f50cd.chunk.css.map": "https://zhpadvoiski.github.io/csb-4xywh/static/css/2.823f50cd.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://zhpadvoiski.github.io/csb-4xywh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.85c7cedd.chunk.js.LICENSE.txt": "https://zhpadvoiski.github.io/csb-4xywh/static/js/2.85c7cedd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b5ae729.js",
+    "static/css/2.823f50cd.chunk.css",
+    "static/js/2.85c7cedd.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4d3b9170.chunk.js"
+  ]
+}
